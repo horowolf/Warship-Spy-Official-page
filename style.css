@@ -1,0 +1,36 @@
+nav {
+    text-align: center;
+}
+
+body {
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+}
+
+#key_usage {
+    max-width: inherit;
+}
+
+.logo {
+    width: 30%;
+    max-width: 400px;
+}
+
+.screenshot {
+    display: inline-block;
+    width: 50%;
+}
+
+.image_section {
+    
+}
+
+ul > li {
+    text-align: left;
+}
