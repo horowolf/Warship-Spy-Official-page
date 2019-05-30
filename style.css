@@ -31,6 +31,10 @@ div {
     
 }
 
+#ground_policy{
+    color: red;
+}
+
 ul > li {
     text-align: left;
 }
